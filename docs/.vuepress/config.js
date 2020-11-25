@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Hello VuePress',
   description: 'Just playing around',
-  base: 'jvms',
   theme: 'reco',
   themeConfig: {
     // 博客配置
